@@ -1,0 +1,368 @@
+.popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+    z-index: 99999999999999;
+}
+
+.popup-content {
+    background-color: #fff;
+    padding: 45px;
+    border-radius: 5px;
+    position: relative;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 0 10px;
+}
+
+.close {
+    position: absolute;
+    top: 6px;
+    right: 23px;
+    font-size: 26px;
+    color: #000;
+    cursor: pointer;
+}
+
+.first_modal_item_wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.first_stape_right_item {
+    text-align: start;
+    margin-top: 3rem;
+}
+
+.first_stape_right_item h2 {
+    font-size: 30px;
+    font-family: 'Playfair Display';
+    color: black;
+    margin-bottom: 25px;
+}
+
+.first_stape_right_item p {
+    font-size: 14px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    color: black;
+    margin-bottom: 3rem;
+}
+
+.product-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.first_stape_left_item{
+    width: 35%;
+}   
+
+.first_stape_right_item{
+    width: 65%;
+}
+.quantity {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 100px;
+    padding: 6px 20px;
+    margin-right: 20px;
+    width: 150px;
+}
+
+.quantity button {
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+.quantity button:hover {
+    color: #CB2929;
+}
+
+.pre_order_btn {
+    background: #262D3C;
+    color: #fff;
+    border: none;
+    padding: 10px 25px;
+    width: 150px;
+    border-radius: 100px;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: poppins;
+    transition: .2s all ease-out;
+}
+
+.pre_order_btn:hover {
+    background: #CB2929;
+}
+
+.quantity span {
+    margin: 0 10px;
+    font-size: 18px;
+    margin: 0 20px;
+    color: black;
+}
+
+.btn_quantity {
+    position: absolute;
+    bottom: 37px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.form-step {
+    display: none;
+}
+
+.form-step.active {
+    display: block;
+}
+
+form {
+    margin-top: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+form input {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #cccccca6;
+    border-radius: 5px;
+    width: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+form input:focus {
+    outline: 1px solid transparent;
+}
+
+form button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+form button:hover {
+    background-color: #45a049;
+}
+
+.modal_select_option {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #cccccca6;
+    border-radius: 5px;
+    width: 100%;
+    color: #000000b5;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.modal_select_option:focus {
+    outline: 1px solid #cb292956;
+}
+
+.modal_phone_input {
+    width: 40%;
+}
+
+.modal_email_input {
+    width: 60%;
+}
+
+.pre_order_btn_next {
+    text-align: end;
+    margin-top: 10px;
+}
+
+.shipping_info_header {
+    color: black;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.shipping_wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.shipping_info_left_item {
+    width: 22%;
+}
+
+.shipping_info_left_item h3 {
+    font-size: 16px;
+    color: black;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.shipping_info_left_item p {
+    font-size: 13px;
+    color: black;
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+.shipping_info_right_item {
+    width: 74%;
+}
+
+.payment_alert_wrapper {
+    background: #FFF3E0;
+    display: flex;
+    padding: 12px 15px;
+    border-radius: 10px;
+    align-items: center;
+    width: 90%;
+    margin-top: 23px;
+    align-items: center;
+}
+
+.payment_alert_wrapper img {
+    margin-right: 5px;
+}
+
+.payment_alert_wrapper p {
+    color: #E18700;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 14px;
+    margin: 0;
+}
+
+.congratulations {
+    text-align: center;
+}
+
+.congratulations img {
+    margin: 35px 0;
+}
+
+.congratulations h2 {
+    color: black;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.congratulations p {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    margin-bottom: 50px;
+    color: black;
+}
+
+/* Breadcrumbs Styling */
+.breadcrumbs {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.breadcrumb {
+    cursor: pointer;
+    margin: 0 10px;
+    color: #555;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+}
+
+.breadcrumb:hover {
+    color: #777;
+}
+
+.active {
+    font-weight: bold;
+    color: #FC1111;
+}
+/* ================================================ */
+    .first_stape_right_item p {
+        max-height: 200px;
+        overflow-y: scroll;
+    }
+    .btn_quantity {
+        position: absolute;
+        bottom: -20px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+/* ===================================================== */
+@media (max-width:767px) {
+    .popup-content {
+        width: 100%;
+        margin: 0 10px;
+        padding: 20px 10px;
+    }
+    .close {
+        top: -5px;
+        right: 8px;
+    }
+    .quantity {
+        padding: 4px 2px;
+        width: auto;
+    }
+    .pre_order_btn {
+        padding: 6px 2px;
+        width: 110px;
+        font-size: 14px;
+    }
+    .quantity {
+        margin-right: 5px;
+    }
+}
+
+@media (max-width:575px) {
+    .btn_quantity {
+        bottom: -7px;
+        left: 100%;
+        transform: translateX(-100%);
+    }
+    .first_stape_right_item {
+        margin-top: 1rem;
+    }
+    .shipping_info_left_item h3 {
+        font-size: 14px;
+    }
+}

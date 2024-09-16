@@ -1,0 +1,918 @@
+@media (max-width: 1600px) {
+    .trump_book {
+        margin-top: -25rem;
+        padding-top: 15rem;
+    }
+
+    .s_7 {
+        right: -56rem;
+        top: 13rem;
+    }
+
+    .s_9 {
+        top: 0rem;
+    }
+
+    .pre_sale {
+        margin-top: -30rem;
+        padding-top: 35rem;
+    }
+
+    .book {
+        margin-top: -160rem;
+    }
+
+    .s_12 {
+        top: -30rem;
+    }
+
+    .about {
+        margin-top: -8rem;
+    }
+
+    .testimonial {
+        padding-top: 4rem;
+    }
+
+    .other_words {
+        padding-top: 80px;
+    }
+
+    .s_1 {
+        bottom: -13rem;
+        left: -22rem;
+    }
+
+    .partner {
+        margin-bottom: -45rem;
+    }
+
+    .book_img {
+        width: 1000px !important;
+    }
+
+    .s_8 {
+        top: -8rem;
+    }
+
+    .s_10 {
+        top: -13rem;
+        left: -74rem;
+    }
+}
+
+@media (max-width: 1440px) {
+    .book_collection {
+        margin-top: -8rem;
+    }
+
+    .s_13 {
+        transform: scale(1.2) rotate(9deg);
+    }
+
+    .s_1 {
+        left: -30rem;
+    }
+
+    .video-overlay iframe {
+        height: 80%;
+        width: 85%;
+    }
+    .s_12 {
+        top: -36rem;
+    }
+    .testimonial {
+        padding-top: 0;
+    }
+}
+
+@media (max-width: 1399px) {
+    .nav_control {
+        position: absolute;
+        right: 25px;
+        top: 82px;
+    }
+
+    #navbarNav {
+        position: absolute;
+        top: 80px;
+    }
+
+    .navbar-nav li {
+        margin-bottom: 10px;
+    }
+
+    .book_content {
+        left: 57%;
+    }
+
+    .book {
+        margin-top: -169rem;
+    }
+
+    .s_8 {
+        top: -2rem;
+    }
+
+    .s_7 {
+        top: 0rem;
+    }
+
+    .pre_sale {
+        padding-top: 39rem;
+        padding-bottom: 5rem;
+    }
+
+    .testimonial {
+        padding-top: 0;
+    }
+
+    .s_13 {
+        top: 0px;
+    }
+
+    .book_collection {
+        margin-top: -5rem;
+    }
+
+    .s_1 {
+        left: -30rem;
+        transform: rotate(11deg);
+    }
+
+    .s_9 {
+        top: 16rem;
+    }
+}
+
+@media (max-width: 1280px) {
+    .s_13 {
+        top: -4rem;
+    }
+    .book_collection {
+        margin-top: -10rem;
+    }
+    .testimonial {
+        padding-top: 0rem !important;
+    }
+}
+@media (max-width: 1199px) {
+    .book_content {
+        width: 55rem;
+    }
+
+    .book_content {
+        left: 57%;
+    }
+
+    .book {
+        margin-top: -142rem;
+    }
+
+    .trump_book {
+        margin-top: -9rem;
+        padding-top: 18rem;
+    }
+
+    .s_8 {
+        top: -15rem;
+    }
+
+    .s_9 {
+        top: -14rem;
+    }
+
+    .s_8 {
+        left: -15rem;
+        opacity: 0.3;
+    }
+
+    .testimonial {
+        padding-top: 17rem;
+    }
+
+    .about {
+        margin-top: -10rem;
+    }
+
+    .video-overlay iframe {
+        width: 90%;
+        height: 38%;
+    }
+}
+
+@media (max-width: 1024px) {
+    .s_9 {
+        top: -9rem;
+        z-index: 2;
+    }
+
+    .trump_book {
+        padding-top: 9rem;
+    }
+
+    .s_7 {
+        top: -15rem;
+    }
+
+    .book {
+        margin-top: -180rem;
+    }
+
+    .s_10 {
+        z-index: 1;
+    }
+
+    .s_8 {
+        top: -23rem;
+        right: -22rem;
+    }
+
+    .s_13 {
+        top: -35rem;
+    }
+
+    .partner {
+        margin-bottom: -52rem;
+    }
+
+    .book_img {
+        width: 598px !important;
+    }
+
+    .s_13 {
+        top: -28rem;
+    }
+
+    .center_control {
+        height: 50vh;
+    }
+
+    .book_collection {
+        margin-top: -7rem;
+    }
+
+    .s_1 {
+        left: -48rem;
+    }
+
+    .book_btn button {
+        margin-top: -35rem;
+    }
+    .testimonial {
+        padding-top: 0rem;
+    }
+}
+
+@media (max-width: 991px) {
+    .s_7 {
+        width: 300px;
+        right: 88rem;
+        top: -4rem;
+    }
+
+    .book_content {
+        left: 57%;
+    }
+
+    .book_content {
+        width: 47rem;
+    }
+
+    .book {
+        margin-top: -156rem;
+    }
+
+    .trump_book {
+        margin-top: -14rem;
+    }
+
+    .s_9 {
+        top: -18rem;
+    }
+
+    .s_7 {
+        right: 35rem;
+        top: -30rem;
+    }
+
+    .book {
+        margin-top: -175rem;
+    }
+
+    .s_8 {
+        top: -15rem;
+        right: -20rem;
+    }
+
+    .s_10 {
+        top: -2rem;
+        left: -76rem;
+    }
+
+    .book_btn img {
+        width: 90px;
+    }
+
+    .pre_sale_header {
+        margin-bottom: 15rem;
+    }
+
+    .pre_sale {
+        padding-bottom: 10rem;
+        padding-top: 20rem;
+    }
+
+    .testimonial {
+        padding-top: 0rem;
+    }
+
+    .s_13 {
+        top: -45rem;
+    }
+
+    .s_15 {
+        display: none;
+    }
+
+    .s_16 {
+        display: none;
+    }
+
+    .about {
+        background: rgb(255, 255, 255);
+    }
+
+    .book_collection {
+        background-color: rgb(255, 255, 255);
+    }
+
+    .center_control {
+        height: 500px;
+    }
+
+    .tramp_book_img {
+        height: 820px;
+    }
+
+    .about_content h3 {
+        font-size: 35px;
+    }
+
+    .banner_overlay_image {
+        top: -3rem;
+    }
+    .about_button img {
+        margin-left: 0px;
+    }
+    .s_12 {
+        top: -30rem;
+    }
+    .single_product {
+        margin-bottom: 0;
+    }
+    .pre_sale .row:last-child {
+        row-gap: 12rem;
+    }
+    
+}
+
+@media (max-width: 767px) {
+    .banner h3 {
+        font-size: 38px;
+        min-height: 80px;
+    }
+
+    .center_control {
+        height: 39vh;
+    }
+
+    .book img {
+        display: none;
+    }
+
+    .book_content {
+        width: 30rem;
+    }
+
+    .book {
+        margin-top: -154rem;
+    }
+
+    .trump_book {
+        margin-top: 15rem;
+    }
+
+    .book_btn button {
+        margin-top: -2rem;
+    }
+
+    .pre_sale_header h3 {
+        font-size: 50px;
+    }
+
+    .pre_sale_header p {
+        font-size: 16px;
+    }
+
+    .pre_sale_header {
+        margin-bottom: 14rem;
+    }
+
+    .pre_sale {
+        padding-top: 47rem;
+    }
+
+    .single_product button {
+        width: 90%;
+        padding: 10px 0px;
+        font-size: 16px;
+    }
+
+    .s_10 {
+        top: -13rem;
+        display: none;
+    }
+
+    .pre_sale {
+        min-height: 2810px;
+    }
+
+    .s_11 {
+        top: 139rem;
+        right: -57rem;
+        opacity: 0.5;
+    }
+
+    .s_9 {
+        top: -38rem;
+    }
+
+    .s_8 {
+        top: -27rem;
+    }
+
+    .s_13 {
+        top: -77rem;
+    }
+
+    .about_content {
+        margin-bottom: 2rem;
+    }
+
+    .book {
+        margin-top: -182rem;
+    }
+
+    .single_product h4 {
+        font-size: 20px;
+    }
+
+    .tes_content p {
+        width: auto;
+    }
+
+    .video-overlay iframe {
+        height: 42%;
+    }
+}
+
+@media (max-width: 575px) {
+    .banner_overlay_image {
+        top: 21px;
+        transform: scale(1.16);
+    }
+
+    .s_7 {
+        right: 25rem;
+        top: -67rem;
+    }
+
+    .book_content h3 {
+        font-size: 50px;
+    }
+
+    .book_content p {
+        font-size: 17px;
+    }
+
+    .book_content {
+        width: 21rem;
+    }
+
+    .book_right_box {
+        height: 190px;
+    }
+
+    .book_left_box {
+        height: 190px;
+    }
+
+    .book {
+        margin-top: -188rem;
+    }
+
+    .s_9 {
+        top: -29rem;
+    }
+
+    .s_8 {
+        opacity: 0.6;
+        right: -19rem;
+        top: -22rem;
+        transform: scale(0.5);
+    }
+
+    .book_btn img {
+        width: 75px;
+        z-index: 9999999;
+    }
+
+    .s_9 {
+        display: none;
+    }
+
+    .s_9_m {
+        display: block;
+        position: absolute;
+        top: -6rem;
+        z-index: 11;
+        width: 100%;
+    }
+
+    .s_9_m img {
+        width: 100%;
+    }
+
+    .single_product {
+        padding: 60px 5px 40px;
+    }
+
+    .pre_sale {
+        padding-top: 35rem;
+    }
+
+    .single_product h4 {
+        font-size: 18px;
+    }
+
+    .s_12 {
+        display: none;
+    }
+
+    .s_12_m {
+        display: block;
+        position: absolute;
+        top: -25rem;
+        width: 100%;
+        z-index: 2;
+    }
+
+    .s_12_m img {
+        width: 100%;
+    }
+
+    .tes_content p {
+        width: auto;
+        font-size: 16px;
+        margin-top: -20px;
+    }
+
+    .tes_content img {
+        width: 120px;
+    }
+
+    .words_box {
+        padding: 25px 10px 10px;
+    }
+
+    .owl-item.active.center {
+        padding-left: 7px;
+        padding-right: 30px;
+    }
+
+    .s_11 {
+        top: 130rem;
+        right: -11rem;
+    }
+
+    .tes_content {
+        margin-top: -5rem;
+    }
+
+    .about {
+        margin-top: -12rem;
+    }
+
+    .s_13 {
+        display: none;
+    }
+
+    .s_13_m {
+        width: 100%;
+        display: block;
+        position: absolute;
+        z-index: 2;
+        top: -25rem;
+    }
+
+    .s_13_m img {
+        width: 100%;
+        height: 80rem;
+    }
+
+    .partner {
+        margin-top: 2rem;
+        padding-bottom: 4rem;
+    }
+
+    .partner p {
+        font-size: 16px;
+        width: auto;
+    }
+
+    .s_1,
+    .s_2,
+    .s_5,
+    .s_6 {
+        display: none;
+    }
+
+    .s_1_m {
+        display: block;
+        position: absolute;
+        bottom: -110px;
+        width: 100%;
+        z-index: 2;
+    }
+
+    .s_1_m img {
+        width: 100%;
+    }
+
+    .s_15 {
+        top: -68rem;
+    }
+
+    .s_16_m {
+        display: block;
+        position: absolute;
+        left: -28rem;
+        bottom: -33rem;
+        opacity: 0.5;
+    }
+
+    .partner h3 {
+        font-size: 35px;
+    }
+
+    .s_3 {
+        right: -25rem;
+        top: 32rem;
+        opacity: 1;
+    }
+
+    .s_4 {
+        left: -56rem;
+        opacity: 1;
+        top: -68rem;
+    }
+
+    .navbar_nav li {
+        width: 30px;
+        height: 30px;
+        margin-right: 8px;
+    }
+
+    .navbar_nav li a i {
+        font-size: 16px;
+    }
+
+    .progress_content p {
+        font-size: 14px;
+    }
+
+    .single_product button {
+        width: 85%;
+        padding: 7px 0px;
+        font-size: 15px;
+    }
+
+    .testimonial {
+        margin-top: -23rem;
+    }
+
+    .pre_sale_header h3 {
+        font-size: 40px;
+    }
+
+    .about_content h3 {
+        font-size: 35px;
+    }
+
+    .partner_btn {
+        padding: 13px 55px;
+        font-size: 16px;
+    }
+
+    .book_img {
+        width: 100% !important;
+    }
+
+    .banner_overlay_image_long {
+        top: 0;
+    }
+
+    .banner h3 {
+        font-size: 26px;
+    }
+
+    .other_words_header h3 {
+        font-size: 30px;
+        margin-bottom: 0px;
+    }
+
+    .footer {
+        margin-top: 5rem;
+    }
+
+    .trump_section h6 {
+        margin-bottom: 22px;
+    }
+
+    .video-overlay iframe {
+        width: 98%;
+        height: 26%;
+    }
+
+    .words_box p {
+        font-weight: 400;
+    }
+
+    .book_collection {
+        margin-top: 0rem;
+    }
+
+    .tramp_book_img {
+        height: 375px;
+        margin-top: -10rem;
+    }
+
+    .tr_img_one {
+        width: 65%;
+        left: 25px;
+    }
+
+    .tr_img_two {
+        width: 75%;
+        right: 25px;
+        top: -14px;
+    }
+
+    .owl-dots {
+        margin-top: -2rem;
+    }
+
+    .book_btn button {
+        margin-top: -1rem;
+    }
+
+    .trump_book {
+        margin-top: 14rem;
+    }
+
+    #image1,
+    #image2 {
+        position: relative;
+        transition: 0.3s ease-out;
+    }
+
+    #image1 {
+        left: 0px;
+    }
+
+    #image2 {
+        left: 0px;
+    }
+
+    ::-webkit-scrollbar {
+        width: inherit;
+    }
+
+    ::-webkit-scrollbar-track {
+        background-color: inherit;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: inherit;
+    }
+
+    .about_button img {
+        margin: 0px;
+    }
+
+    header {
+        padding: 15px 0px;
+    }
+    .about_button {
+        justify-content: space-around;
+    }
+}
+
+@media (max-width: 450px) {
+    .pre_sale_header {
+        margin-bottom: 10rem;
+    }
+}
+
+@media (max-width: 400px) {
+    .s_9_m {
+        top: -8rem;
+    }
+}
+
+@media (max-width: 380px) {
+    .partner {
+        margin-top: 21rem;
+        padding-bottom: 2rem;
+    }
+
+    .s_9_m {
+        top: -10rem;
+    }
+}
+
+@media (max-width: 400px) {
+    .s_1_m {
+        bottom: 0px;
+    }
+
+    .partner {
+        margin-top: 5rem;
+    }
+
+    .s_13_m {
+        top: -30rem;
+    }
+}
+
+@media (max-width:375px) {
+    .center_control {
+        height: 50vh;
+    }
+}
+
+@media (max-width: 350px) {
+    .partner h3 {
+        font-size: 35px;
+    }
+
+    .partner {
+        margin-top: 15rem;
+    }
+}
+
+@media (max-width: 320px) {
+    .book_content {
+        width: 19rem;
+    }
+}
+
+@media screen and (max-width:1380px) and (min-width:1280px) {
+    .book {
+        margin-top: -158rem;
+    }
+    .book_btn {
+        position: absolute;
+        bottom: 90px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .trump_book {
+        padding-top: 18rem;
+    }
+    .s_9 {
+        top: 7rem;
+    }
+    .pre_sale {
+        padding-top: 33rem;
+    }
+    .testimonial {
+        padding-top: 0rem;
+    }
+    .book_collection { 
+        margin-top: -7rem;
+    }
+    .s_12 {
+        top: -20rem;
+    }
+    .s_13 {
+        top: 2rem;
+    }
+}
+
+@media screen and (max-width:712px) and (min-width:712px) {
+    .tramp_book_img {
+        height: 430px;
+    }
+}
